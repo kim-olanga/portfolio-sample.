@@ -1,9 +1,8 @@
 table{
     background-color: aqua;
 }
-.extra{
-    background-color: aquamarine;
-    clear: both;
+
+li{
+    display: inline;
+    padding-right: 70px;
 }
-.icon{
-    float: right;
